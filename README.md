@@ -25,6 +25,8 @@
 
 -Framework: ADO.NET (for data access and interaction with SQL databases)
 
+-Dependency: System.Data.SqlClient (for connecting to SQL Server)
+
 -Programming Paradigm: Object-Oriented Programming (OOP)
 
 
@@ -49,7 +51,7 @@ Password: admin
 1.Clone the repository:
 
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/joaossch/Class-Management-System
 cd your-repository
 
 2.Install necessary dependencies .
